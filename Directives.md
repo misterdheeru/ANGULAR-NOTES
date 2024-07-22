@@ -1,4 +1,4 @@
 # Directives
 
-## What are the Directives in Angular ? 
+### 1. What are the Directives in Angular ? 
 ###
